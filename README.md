@@ -10,7 +10,9 @@ I created this State-Diagram in order to setup the logic.
 
 The only thing I needed was to distingish between NUMBER-, OPERATOR- and EQUAL-button. For those button types I set up cases according to the diagram.
 For example:
+
 NumberButtonPressed -> Which State? -> WaitingForSecondNumber -> SaveNumber in variable2
+
 NumberButtonPressed -> Which State? ->  WaitingForFirstNumber -> SaveNumber in variable1
 
 
