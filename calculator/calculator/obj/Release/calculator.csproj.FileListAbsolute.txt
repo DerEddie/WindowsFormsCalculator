@@ -1,0 +1,10 @@
+C:\Users\Eduard.Krutitsky\source\repos\calculator\calculator\bin\Release\calculator.exe.config
+C:\Users\Eduard.Krutitsky\source\repos\calculator\calculator\bin\Release\calculator.exe
+C:\Users\Eduard.Krutitsky\source\repos\calculator\calculator\bin\Release\calculator.pdb
+C:\Users\Eduard.Krutitsky\source\repos\calculator\calculator\obj\Release\calculator.Form1.resources
+C:\Users\Eduard.Krutitsky\source\repos\calculator\calculator\obj\Release\calculator.Properties.Resources.resources
+C:\Users\Eduard.Krutitsky\source\repos\calculator\calculator\obj\Release\calculator.csproj.GenerateResource.cache
+C:\Users\Eduard.Krutitsky\source\repos\calculator\calculator\obj\Release\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Eduard.Krutitsky\source\repos\calculator\calculator\obj\Release\calculator.exe
+C:\Users\Eduard.Krutitsky\source\repos\calculator\calculator\obj\Release\calculator.pdb
+C:\Users\Eduard.Krutitsky\source\repos\calculator\calculator\obj\Release\calculator.csprojAssemblyReference.cache
