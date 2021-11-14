@@ -2,7 +2,7 @@
 
 I created this State-Diagram in order to setup the logic.
 
-![stateDiagramCalculator](https://user-images.githubusercontent.com/29587190/141698753-8b694c20-c169-4da9-9de0-c58ac0a64e45.PNG)
+![image](https://user-images.githubusercontent.com/29587190/141699720-d3924b0c-aa97-4898-821f-8b0ca70bf03b.png)
 
 
 
