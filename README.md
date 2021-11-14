@@ -1,9 +1,10 @@
 # WindowsFormsCalculator
 
+I created this State-Diagram in order to setup the logic.
 
 ![stateDiagramCalculator](https://user-images.githubusercontent.com/29587190/141698753-8b694c20-c169-4da9-9de0-c58ac0a64e45.PNG)
 
-I decided to use for states in my calculator Logic.
+
 
 
 
@@ -19,6 +20,9 @@ NumberButtonPressed -> Which State? ->  WaitingForFirstNumber -> SaveNumber in v
 
 
 Features:
+
 Chaining Operations
+
 Continue Calculation after Equals (by pressing next Operand) or start fresh (by Pressing Digit)
+
 Autocalc by repeatedly pressing Equals.
