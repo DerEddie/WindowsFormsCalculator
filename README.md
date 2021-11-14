@@ -28,3 +28,5 @@ Chaining Operations
 Continue Calculation after Equals (by pressing next Operand) or start fresh (by Pressing Digit)
 
 Autocalc by repeatedly pressing Equals.
+
+-> Try the calc.exe yourself in WindowsFormsCalculator/calculator/calculator/bin/Debug/ 
